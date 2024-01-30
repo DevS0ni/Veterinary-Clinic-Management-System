@@ -1,1 +1,1 @@
-# Veterinary-Clinic-Management-System
+# Veterinary Clinic Management System
